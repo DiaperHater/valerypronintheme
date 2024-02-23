@@ -1,3 +1,6 @@
 "use strict";
 
-console.log('js is fine!');
+function toggleMobileMenu() {
+  const mobileMenu = document.querySelector('#mobile-menu');
+  mobileMenu.classList.toggle('hidden');
+}

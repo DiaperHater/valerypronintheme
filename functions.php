@@ -15,8 +15,7 @@ if (!is_admin()) {
   {
 
     // Styles
-    wp_enqueue_style('valerypronin-fonts', get_theme_file_uri('/assets/css/fonts.css'), array(), S_VERSION, 'all');
-    wp_enqueue_style('valerypronin-styles', get_theme_file_uri('/assets/css/styles.css'), array('valerypronin-fonts', 'wp-block-library'), S_VERSION, 'all');
+    wp_enqueue_style('valerypronin-styles', get_theme_file_uri('/assets/css/styles.css'), array(), S_VERSION, 'all');
 
     // Scripts    
     wp_enqueue_script('valerypronin-script', get_theme_file_uri('/assets/js/main.js'), array(), S_VERSION, true);
