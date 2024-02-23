@@ -1,3 +1,8 @@
+<?php
+
+global $post;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -72,19 +77,19 @@
               <nav class="hidden md:block md:mx-auto">
                 <ul class="flex px-3 text-sm transition rounded-full shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur">
                   <li>
-                    <a href="/about" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 group active [&.active]:text-teal-500">
+                    <a href="/about" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 group [&.active]:text-teal-500 group <?= $post->post_name == 'about' ? 'active' : '' ?>">
                       About
                       <span class="absolute h-px opacity-0 inset-x-1 -bottom-px bg-gradient-to-r from-teal-500/0 via-teal-500/40 to-teal-500/0 group-hover:opacity-100 group-[.active]:opacity-100"></span>
                     </a>
                   </li>
                   <li>
-                    <a href="/work" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 group">
+                    <a href="/work" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 [&.active]:text-teal-500 group <?= $post->post_name == 'work' ? 'active' : '' ?>">
                       Work
                       <span class="absolute h-px opacity-0 inset-x-1 -bottom-px bg-gradient-to-r from-teal-500/0 via-teal-500/40 to-teal-500/0 group-hover:opacity-100 group-[.active]:opacity-100"></span>
                     </a>
                   </li>
                   <li>
-                    <a href="/contact" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 group">
+                    <a href="/contact" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 [&.active]:text-teal-500 group <?= $post->post_name == 'contact' ? 'active' : '' ?>">
                       Contact
                       <span class="absolute h-px opacity-0 inset-x-1 -bottom-px bg-gradient-to-r from-teal-500/0 via-teal-500/40 to-teal-500/0 group-hover:opacity-100 group-[.active]:opacity-100"></span>
                     </a>
