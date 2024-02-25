@@ -26,7 +26,7 @@ global $post;
           <div class="px-4 sm:px-8 lg:px-12">
             <header class="relative flex items-center pt-6">
               <!-- Ava -->
-              <a href="/" class="pointer-events-auto">
+              <a href="/" class="pointer-events-auto duration-500 [&#header-ava]:origin-left" <?= is_home() ? 'id="header-ava"' : '' ?>>
                 <img src="<?= get_template_directory_uri() ?>/assets/images/left3-grayscale.webp" alt="Valery Pronin Ava" class="block object-cover object-center rounded-full shadow-lg w-14 h-14 ring-1 shadow-zinc-800/5 ring-zinc-900/5">
               </a>
               <!-- MobileOnly -->

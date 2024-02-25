@@ -1,7 +1,7 @@
 <?php get_header() ?>
 
 <!-- HomeHero -->
-<section class="px-4 mt-40 sm:mt-56 lg:mt-80 sm:px-8 lg:px-12">
+<section class="px-4 mt-64 md:mt-80 sm:px-8 lg:px-12">
   <div class="max-w-2xl">
     <h1 class="mt-6 text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl">
       Software designer, founder, and amateur astronaut.

@@ -1618,6 +1618,18 @@ html {
   margin-top: 2rem;
 }
 
+.mt-56 {
+  margin-top: 14rem;
+}
+
+.mt-60 {
+  margin-top: 15rem;
+}
+
+.mt-64 {
+  margin-top: 16rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -6022,6 +6034,10 @@ html {
     margin-right: auto;
   }
 
+  .md\:mt-80 {
+    margin-top: 20rem;
+  }
+
   .md\:block {
     display: block;
   }
@@ -6244,6 +6260,10 @@ html {
       paint-order: markers;
     }
   }
+}
+
+.\[\&\#header-ava\]\:origin-left#header-ava {
+  transform-origin: left;
 }
 
 .\[\&\.active\]\:text-teal-500.active {
