@@ -60,7 +60,7 @@
             <h3>
               <a href="/work">
                 <span class="absolute inset-0 rounded-3xl"></span>
-                <img alt="FamilyFund" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/client-logo.svg">
+                <img alt="FamilyFund" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="object-contain w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/wire.webp">
               </a>
             </h3>
             <p class="flex mt-6 text-sm gap-x-2 text-zinc-800">
@@ -79,7 +79,7 @@
                 <span class="absolute inset-0 rounded-3xl">
 
                 </span>
-                <img alt="Unseal" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/client-logo.svg">
+                <img alt="Unseal" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="object-contain w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/zankovets.webp">
               </a>
             </h3>
             <p class="flex mt-6 text-sm gap-x-2 text-zinc-800">
@@ -98,7 +98,7 @@
                 <span class="absolute inset-0 rounded-3xl">
 
                 </span>
-                <img alt="Phobia" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/client-logo.svg">
+                <img alt="Phobia" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="object-contain w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/novozilov.webp">
               </a>
             </h3>
             <p class="flex mt-6 text-sm gap-x-2 text-zinc-800">

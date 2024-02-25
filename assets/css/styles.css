@@ -1794,6 +1794,10 @@ html {
   width: 100%;
 }
 
+.w-auto {
+  width: auto;
+}
+
 .max-w-2xl {
   max-width: 42rem;
 }

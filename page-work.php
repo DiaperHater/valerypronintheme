@@ -35,7 +35,7 @@
           <div class="relative grid grid-cols-3 pt-16 gap-x-8 gap-y-8 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-px before:w-6 after:left-8 after:right-0 after:top-0 after:h-px">
             <div class="col-span-full sm:flex sm:items-center sm:justify-between sm:gap-x-8 lg:col-span-1 lg:block">
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
-                <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/client-logo.svg">
+                <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/wire.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
                   FamilyFund
                 </h3>
@@ -96,7 +96,7 @@
           <div class="relative grid grid-cols-3 pt-16 gap-x-8 gap-y-8 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-px before:w-6 after:left-8 after:right-0 after:top-0 after:h-px">
             <div class="col-span-full sm:flex sm:items-center sm:justify-between sm:gap-x-8 lg:col-span-1 lg:block">
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
-                <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/client-logo.svg">
+                <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/zankovets.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
                   Unseal
                 </h3>
@@ -157,7 +157,7 @@
           <div class="relative grid grid-cols-3 pt-16 gap-x-8 gap-y-8 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-px before:w-6 after:left-8 after:right-0 after:top-0 after:h-px">
             <div class="col-span-full sm:flex sm:items-center sm:justify-between sm:gap-x-8 lg:col-span-1 lg:block">
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
-                <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/client-logo.svg">
+                <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/novozilov.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
                   Phobia
                 </h3>
