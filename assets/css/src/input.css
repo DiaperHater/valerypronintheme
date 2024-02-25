@@ -7,3 +7,9 @@
     scroll-behavior: smooth;
   }
 }
+
+@layer components {
+  .hf-message {
+    @apply mt-10;
+  }
+}

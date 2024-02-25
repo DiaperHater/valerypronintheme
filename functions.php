@@ -77,7 +77,3 @@ add_action('after_setup_theme', 'valerypronin_admin_theme_setup');
 //   add_shortcode('shortcodename', 'print_shortcode');
 // }
 // add_action('init', 'register_shortcodes');
-
-
-// CF7
-// add_filter('wpcf7_autop_or_not', '__return_false');
