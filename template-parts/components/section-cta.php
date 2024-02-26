@@ -26,7 +26,7 @@
                 <span class="text-sm not-italic text-neutral-300">
                   <strong class="text-white">Email</strong>
                   <br>
-                  <a href="mailto:one@valerypronin.com" class="">one@valerypronin.com</a>
+                  <a href="mailto:hi@valerypronin.com" class="">hi@valerypronin.com</a>
                 </span>
               </li>
             </ul>

@@ -21,11 +21,11 @@
         </a>
       </li>
       <li class="flex mt-4 ">
-        <a class="flex text-sm font-medium transition group text-zinc-800 hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500" href="mailto:one@valerypronin.com">
+        <a class="flex text-sm font-medium transition group text-zinc-800 hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500" href="mailto:hi@valerypronin.com">
           <svg viewBox="0 0 24 24" aria-hidden="true" class="flex-none w-6 h-6 transition fill-zinc-500 group-hover:fill-teal-500">
             <path fill-rule="evenodd" d="M6 5a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3V8a3 3 0 0 0-3-3H6Zm.245 2.187a.75.75 0 0 0-.99 1.126l6.25 5.5a.75.75 0 0 0 .99 0l6.25-5.5a.75.75 0 0 0-.99-1.126L12 12.251 6.245 7.187Z"></path>
           </svg>
-          <span class="ml-4">one@valerypronin.com</span>
+          <span class="ml-4">hi@valerypronin.com</span>
         </a>
       </li>
       <li class="flex mt-4 ">
