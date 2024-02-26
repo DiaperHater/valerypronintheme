@@ -6,6 +6,10 @@
   html {
     scroll-behavior: smooth;
   }
+
+  strong {
+    @apply font-semibold;
+  }
 }
 
 @layer components {

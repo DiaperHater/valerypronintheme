@@ -9,12 +9,12 @@
           My work
         </span>
         <span class="mt-6 block max-w-5xl font-display text-5xl font-medium tracking-tight text-zinc-800 [text-wrap:balance] sm:text-6xl">
-          Proven solutions for real-world problems.
+          My clients are my assets.
         </span>
       </h1>
       <div class="max-w-3xl mt-6 text-xl text-neutral-600">
         <p>
-          We believe in efficiency and maximizing our resources to provide the best value to our clients. The primary way we do that is by re-using the same five projects we’ve been developing for the past decade.
+          Here are case studies for some of my latest projects.
         </p>
       </div>
     </div>
@@ -37,16 +37,16 @@
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
                 <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/wire.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
-                  FamilyFund
+                  Wire Sports Managment
                 </h3>
               </div>
               <div class="flex mt-1 gap-x-4 sm:mt-0 lg:block">
                 <p class="text-sm tracking-tight text-zinc-800 after:ml-4 after:font-semibold after:text-zinc-300 after:content-['/'] lg:mt-2 lg:after:hidden">
-                  Web development, CMS
+                  Web development
                 </p>
                 <p class="text-sm text-zinc-800 lg:mt-2">
                   <time datetime="2023-01">
-                    January 2023
+                    Febrary 2024
                   </time>
                 </p>
               </div>
@@ -54,7 +54,7 @@
             <div class="col-span-full lg:col-span-2 lg:max-w-2xl">
               <p class="text-4xl font-medium font-display text-zinc-800">
                 <span href="/work">
-                  Skip the bank, borrow from those you trust
+                  Full website redesign
                 </span>
                 <!-- <a href="/work">
                   Skip the bank, borrow from those you trust
@@ -62,10 +62,7 @@
               </p>
               <div class="mt-6 space-y-6 text-base text-neutral-600">
                 <p>
-                  FamilyFund is a crowdfunding platform for friends and family. Allowing users to take personal loans from their network without a traditional financial institution.
-                </p>
-                <p>
-                  We developed a custom CMS to power their blog with and optimised their site to rank higher for the keywords “Gary Vee” and “Tony Robbins”.
+                  The goal was to redesign an outdated website to make it look more in accordance with Wire's general partner's (CAA Agency) website, so Wire's potential clients would feel confident outgoing from a strong partnership between two successful companies.
                 </p>
               </div>
               <div class="flex mt-8">
@@ -75,7 +72,7 @@
                   </span>
                 </a> -->
               </div>
-              <div class="relative pl-8 mt-12 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-6 before:w-px after:bottom-0 after:left-0 after:top-8 after:w-px">
+              <!-- <div class="relative pl-8 mt-12 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-6 before:w-px after:bottom-0 after:left-0 after:top-8 after:w-px">
                 <figure class="text-sm">
                   <blockquote class="text-neutral-600 [&amp;>*]:relative [&amp;>:first-child]:before:absolute [&amp;>:first-child]:before:right-full [&amp;>:first-child]:before:content-['“'] [&amp;>:last-child]:after:content-['”']">
                     <p>
@@ -86,7 +83,7 @@
                     Debra Fiscal, CEO of FamilyFund
                   </figcaption>
                 </figure>
-              </div>
+              </div> -->
             </div>
           </div>
         </article>
@@ -98,16 +95,16 @@
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
                 <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/zankovets.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
-                  Unseal
+                  Vlady Zankovets
                 </h3>
               </div>
               <div class="flex mt-1 gap-x-4 sm:mt-0 lg:block">
                 <p class="text-sm tracking-tight text-zinc-800 after:ml-4 after:font-semibold after:text-zinc-300 after:content-['/'] lg:mt-2 lg:after:hidden">
-                  Blockchain development
+                  Web design, Web development, Content managment
                 </p>
                 <p class="text-sm text-zinc-800 lg:mt-2">
                   <time datetime="2022-10">
-                    October 2022
+                    January 2024
                   </time>
                 </p>
               </div>
@@ -115,7 +112,7 @@
             <div class="col-span-full lg:col-span-2 lg:max-w-2xl">
               <p class="text-4xl font-medium font-display text-zinc-800">
                 <span href="/work">
-                  Get a hodl of your health
+                  Personal custom website
                 </span>
                 <!-- <a href="/work">
                   Get a hodl of your health
@@ -123,10 +120,7 @@
               </p>
               <div class="mt-6 space-y-6 text-base text-neutral-600">
                 <p>
-                  Unseal is the first NFT platform where users can mint and trade NFTs of their own personal health records, allowing them to take control of their data.
-                </p>
-                <p>
-                  We built out the blockchain infrastructure that supports Unseal. Unfortunately, we took a massive loss on this project when Unseal’s cryptocurrency, PlaceboCoin, went to zero.
+                  Vlady is a top-notch straight and conditioning coach working with the world's most outstanding athletes. Also, he's the author of two books and dozens of scientific articles! Social networks were just not enough to cover all his professional needs, so after a number of conversations, we decided to build him a fully functional website.
                 </p>
               </div>
               <div class="flex mt-8">
@@ -136,7 +130,7 @@
                   </span> -->
                 </a>
               </div>
-              <div class="relative pl-8 mt-12 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-6 before:w-px after:bottom-0 after:left-0 after:top-8 after:w-px">
+              <!-- <div class="relative pl-8 mt-12 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-6 before:w-px after:bottom-0 after:left-0 after:top-8 after:w-px">
                 <figure class="text-sm">
                   <blockquote class="text-neutral-600 [&amp;>*]:relative [&amp;>:first-child]:before:absolute [&amp;>:first-child]:before:right-full [&amp;>:first-child]:before:content-['“'] [&amp;>:last-child]:after:content-['”']">
                     <p>
@@ -147,7 +141,7 @@
                     Emily Selman, Head of Engineering at Unseal
                   </figcaption>
                 </figure>
-              </div>
+              </div> -->
             </div>
           </div>
         </article>
@@ -159,16 +153,16 @@
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
                 <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/novozilov.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
-                  Phobia
+                  HappyWheels roller school
                 </h3>
               </div>
               <div class="flex mt-1 gap-x-4 sm:mt-0 lg:block">
                 <p class="text-sm tracking-tight text-zinc-800 after:ml-4 after:font-semibold after:text-zinc-300 after:content-['/'] lg:mt-2 lg:after:hidden">
-                  App development
+                  Web design, Web development, Content management
                 </p>
                 <p class="text-sm text-zinc-800 lg:mt-2">
                   <time datetime="2022-06">
-                    June 2022
+                    December 2023
                   </time>
                 </p>
               </div>
@@ -176,7 +170,7 @@
             <div class="col-span-full lg:col-span-2 lg:max-w-2xl">
               <p class="text-4xl font-medium font-display text-zinc-800">
                 <span href="/work">
-                  Overcome your fears, find your match
+                  Landing page
                 </span>
                 <!-- <a href="/work">
                   Overcome your fears, find your match
@@ -184,10 +178,7 @@
               </p>
               <div class="mt-6 space-y-6 text-base text-neutral-600">
                 <p>
-                  Find love in the face of fear — Phobia is a dating app that matches users based on their mutual phobias so they can be scared together.
-                </p>
-                <p>
-                  We worked with Phobia to develop a new onboarding flow. A user is shown pictures of common phobias and we use the microphone to detect which ones make them scream, feeding the results into the matching algorithm.
+                  Searching for clients is not an easy task for a new business, especially when you just moved to a new country. People need to get to know you and your work before they can trustably choose your services. In that way, a well-structured and informative landing page is essential. Me and Denis (the client) worked through each aspect of his business, and together we got to the set of key information that should be represented to his potential clients.
                 </p>
               </div>
               <div class="flex mt-8">
@@ -197,7 +188,7 @@
                   </span> -->
                 </a>
               </div>
-              <div class="relative pl-8 mt-12 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-6 before:w-px after:bottom-0 after:left-0 after:top-8 after:w-px">
+              <!-- <div class="relative pl-8 mt-12 before:absolute after:absolute before:bg-zinc-800 after:bg-zinc-800/10 before:left-0 before:top-0 before:h-6 before:w-px after:bottom-0 after:left-0 after:top-8 after:w-px">
                 <figure class="text-sm">
                   <blockquote class="text-neutral-600 [&amp;>*]:relative [&amp;>:first-child]:before:absolute [&amp;>:first-child]:before:right-full [&amp;>:first-child]:before:content-['“'] [&amp;>:last-child]:after:content-['”']">
                     <p>
@@ -208,7 +199,7 @@
                     Jenny Wilson, CPO of Phobia
                   </figcaption>
                 </figure>
-              </div>
+              </div> -->
             </div>
           </div>
         </article>
@@ -219,7 +210,9 @@
 
 
 
-<?php get_template_part('template-parts/components/section', 'testimonial') ?>
+<?php
+// get_template_part('template-parts/components/section', 'testimonial') 
+?>
 
 <?php get_template_part('template-parts/components/section', 'cta') ?>
 

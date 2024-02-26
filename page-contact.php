@@ -3,10 +3,7 @@
 <div class="px-6 mx-auto mt-32 max-w-7xl lg:px-8 sm:mt-40 lg:mt-64">
   <div class="max-w-2xl mx-auto lg:max-w-none">
     <div>
-      <h1><span class="block text-base font-semibold font-display text-zinc-800">Contact us</span><span class="sr-only"> - </span><span class="mt-6 block max-w-5xl font-display text-5xl font-medium tracking-tight text-zinc-800 [text-wrap:balance] sm:text-6xl">Let’s work together</span></h1>
-      <div class="max-w-3xl mt-6 text-xl text-neutral-600">
-        <p>We can’t wait to hear from you.</p>
-      </div>
+      <h1><span class="block text-base font-semibold font-display text-zinc-800">Contact me</span><span class="sr-only"> - </span><span class="mt-6 block max-w-5xl font-display text-5xl font-medium tracking-tight text-zinc-800 [text-wrap:balance] sm:text-6xl">Let’s work together</span></h1>
     </div>
   </div>
 </div>
