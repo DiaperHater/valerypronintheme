@@ -8,6 +8,10 @@ function toggleMobileMenu() {
 (function () {
 
   const ava = document.getElementById('header-ava');
+  if (!ava) {
+    return;
+  }
+
   ava.style.scale = 3;
   ava.style.translate = '0 100px';
 
