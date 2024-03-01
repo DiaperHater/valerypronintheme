@@ -29,6 +29,20 @@
                   <a href="mailto:hi@valerypronin.com" class="">hi@valerypronin.com</a>
                 </span>
               </li>
+              <li>
+                <span class="text-sm not-italic text-neutral-300">
+                  <strong class="text-white">Telegram</strong>
+                  <br>
+                  <a href="https://t.me/+375259875947" class="">@shlxng</a>
+                </span>
+              </li>
+              <li>
+                <span class="text-sm not-italic text-neutral-300">
+                  <strong class="text-white">LinkeIn</strong>
+                  <br>
+                  <a href="https://www.linkedin.com/in/pronin-v" class="">Valery Pronin</a>
+                </span>
+              </li>
             </ul>
           </div>
         </div>
