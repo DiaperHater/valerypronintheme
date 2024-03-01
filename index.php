@@ -17,10 +17,10 @@
     </p>
   </div>
   <div class="flex flex-col items-start gap-4 pt-8 mt-8 ml-auto border-t border-zinc-800/5">
-    <a href="/work" class="inline-flex rounded-full px-4 py-1.5 pb-2.5 text-sm font-semibold transition bg-zinc-800 text-white hover:bg-neutral-800">
+    <a href="/work" class="button">
       <span class="relative top-px">Check My Work</span>
     </a>
-    <a href="/contact" class="inline-flex rounded-full px-4 py-1.5 pb-2.5 text-sm font-semibold transition bg-zinc-800 text-white hover:bg-neutral-800">
+    <a href="/contact" class="button">
       <span class="relative top-px">Contact</span>
     </a>
   </div>
@@ -45,7 +45,7 @@
           <article class="relative flex flex-col w-full p-6 transition rounded-3xl ring-1 ring-zinc-800/5 hover:bg-zinc-50 sm:p-8">
             <h3>
               <span>
-                <span class="absolute inset-0 rounded-3xl"></span>
+                <!-- <a href="" class="absolute inset-0 rounded-3xl"></a> -->
                 <img alt="FamilyFund" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="object-contain w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/wire.webp">
                 <span>
             </h3>
@@ -61,15 +61,16 @@
             <p class="mt-4 text-base text-zinc-600">
               The goal was to redesign an outdated website to make it look more in accordance with Wire's general partner's (CAA Agency) website, so Wire's potential clients would feel confident outgoing from a strong partnership between two successful companies.
             </p>
+            <div class="mt-6">
+              <a href="http://wiresportsmanagement.com/" target="_blank" class="text-sm font-semibold underline underline-offset-2 hover:text-teal-500">View Website</a>
+            </div>
           </article>
         </div>
-        <div class="flex" style="opacity: 1; transform: none;">
+        <div class="flex">
           <article class="relative flex flex-col w-full p-6 transition rounded-3xl ring-1 ring-zinc-800/5 hover:bg-zinc-50 sm:p-8">
             <h3>
               <span>
-                <span class="absolute inset-0 rounded-3xl">
-
-                </span>
+                <!-- <a href="" class="absolute inset-0 rounded-3xl"></a> -->
                 <img alt="Unseal" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="object-contain w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/zankovets.webp">
                 <span>
             </h3>
@@ -86,13 +87,11 @@
             </p>
           </article>
         </div>
-        <div class="flex" style="opacity: 1; transform: none;">
+        <div class="flex">
           <article class="relative flex flex-col w-full p-6 transition rounded-3xl ring-1 ring-zinc-800/5 hover:bg-zinc-50 sm:p-8">
             <h3>
               <span>
-                <span class="absolute inset-0 rounded-3xl">
-
-                </span>
+                <!-- <a href="" class="absolute inset-0 rounded-3xl"></a> -->
                 <img alt="Phobia" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="object-contain w-16 h-16" src="<?= get_template_directory_uri() ?>/assets/images/novozilov.webp">
                 <span>
             </h3>
@@ -107,6 +106,9 @@
             <p class="mt-4 text-base text-zinc-600">
               Searching for clients is not an easy task for a new business, especially when you just moved to a new country. People need to get to know you and your work before they can trustably choose your services. In that way, a well-structured and informative landing page is essential. Me and Denis (the client) worked through each aspect of his business, and together we got to the set of key information that should be represented to his potential clients.
             </p>
+            <div class="mt-6">
+              <a href="https://dxbskating.com" target="_blank" class="text-sm font-semibold underline underline-offset-2 hover:text-teal-500">View Website</a>
+            </div>
           </article>
         </div>
       </div>
@@ -122,7 +124,7 @@
 <section>
   <div class="px-6 mx-auto mt-24 max-w-7xl lg:px-8 sm:mt-32 lg:mt-40">
     <div class="max-w-2xl mx-auto lg:max-w-none">
-      <div class="max-w-2xl" style="opacity: 1; transform: none;">
+      <div class="max-w-2xl">
         <h2>
           <span class="block mb-6 text-base font-semibold font-display text-zinc-800">Services</span>
           <span class="sr-only"> - </span>
@@ -143,7 +145,7 @@
       <div class="lg:flex lg:items-center lg:justify-end">
         <!-- Image -->
         <div class="flex justify-center lg:w-1/2 lg:justify-end lg:pr-12">
-          <div class="w-[33.75rem] flex-none lg:w-[45rem]" style="opacity: 1; transform: none;">
+          <div class="w-[33.75rem] flex-none lg:w-[45rem]">
             <div class="justify-center lg:justify-end relative flex aspect-[719/680] w-full grayscale"><svg viewBox="0 0 655 680" fill="none" class="h-full">
                 <g clip-path="url(#:S1:-clip)" class="group">
                   <g class="transition duration-500 origin-center scale-100 motion-safe:group-hover:scale-105">

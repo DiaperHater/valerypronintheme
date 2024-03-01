@@ -8,7 +8,7 @@
             Tell me about your project
           </h2>
           <div class="flex mt-6">
-            <a class="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-white text-neutral-950 hover:bg-neutral-200" href="/contact">
+            <a class="button-white" href="/contact">
               <span class="relative top-px">Say Hey</span>
             </a>
           </div>

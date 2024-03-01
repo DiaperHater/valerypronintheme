@@ -50,6 +50,9 @@
                   </time>
                 </p>
               </div>
+              <div class="mt-6">
+                <a href="http://wiresportsmanagement.com/" target="_blank" class="text-sm font-semibold underline underline-offset-2 hover:text-teal-500">View Website</a>
+              </div>
             </div>
             <div class="col-span-full lg:col-span-2 lg:max-w-2xl">
               <p class="text-4xl font-medium font-display text-zinc-800">
@@ -165,6 +168,9 @@
                     December 2023
                   </time>
                 </p>
+              </div>
+              <div class="mt-6">
+                <a href="https://dxbskating.com" target="_blank" class="text-sm font-semibold underline underline-offset-2 hover:text-teal-500">View Website</a>
               </div>
             </div>
             <div class="col-span-full lg:col-span-2 lg:max-w-2xl">
