@@ -13,12 +13,15 @@
     </p>
     <p class="mt-6 text-xl text-zinc-600">
       Here is my shortcut:
-      <br><span class="text-xl font-semibold">Your project — My execution — Our win — Period</span>
+      <br><span class="text-xl font-semibold">Your vision — My execution — Our win — Period</span>
     </p>
   </div>
-  <div class="pt-8 mt-8 ml-auto border-t border-zinc-800/5">
+  <div class="flex flex-col items-start gap-4 pt-8 mt-8 ml-auto border-t border-zinc-800/5">
     <a href="/work" class="inline-flex rounded-full px-4 py-1.5 pb-2.5 text-sm font-semibold transition bg-zinc-800 text-white hover:bg-neutral-800">
       <span class="relative top-px">Check My Work</span>
+    </a>
+    <a href="/contact" class="inline-flex rounded-full px-4 py-1.5 pb-2.5 text-sm font-semibold transition bg-zinc-800 text-white hover:bg-neutral-800">
+      <span class="relative top-px">Contact</span>
     </a>
   </div>
 </section>
