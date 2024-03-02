@@ -8,7 +8,7 @@
             <a class="transition hover:text-teal-500" href="/work">Work</a>
             <a class="transition hover:text-teal-500" href="/contact">Contact</a>
           </div>
-          <p class="text-sm text-zinc-400">© <!-- --><?php echo date("Y"); ?><!-- --> Valery Pronin. All rights reserved.</p>
+          <p class="text-sm text-zinc-400">© <!-- --><?php echo date("Y"); ?><!-- --> Valery Pronin All rights reserved.</p>
         </div>
       </div>
     </div>
