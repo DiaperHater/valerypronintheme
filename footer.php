@@ -6,6 +6,7 @@
           <div class="flex flex-wrap justify-center text-sm font-medium gap-x-6 gap-y-1 text-zinc-800">
             <a class="transition hover:text-teal-500" href="/about">About</a>
             <a class="transition hover:text-teal-500" href="/work">Work</a>
+            <a class="transition hover:text-teal-500" href="/articles">Articles</a>
             <a class="transition hover:text-teal-500" href="/contact">Contact</a>
           </div>
           <p class="text-sm text-zinc-400">© <!-- --><?php echo date("Y"); ?><!-- --> Valery Pronin. All rights reserved.</p>

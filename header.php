@@ -23,7 +23,7 @@ global $post;
 
       <!-- TopNav -->
 
-      <div class="fixed top-0 left-0 z-10 flex justify-center w-full sm:px-8 lg:px-12">
+      <div class="fixed top-0 left-0 z-50 flex justify-center w-full sm:px-8 lg:px-12">
         <div class="w-full max-w-7xl">
           <div class="px-4 sm:px-8 lg:px-12">
             <header class="relative flex items-center pt-6">
@@ -56,17 +56,22 @@ global $post;
                     <nav class="mt-6">
                       <ul class="-my-2 text-base divide-y divide-zinc-100 text-zinc-800 ">
                         <li>
-                          <a class="block py-2" data-headlessui-state="open" href="/about">
+                          <a class="block py-2" href="/about">
                             About
                           </a>
                         </li>
                         <li>
-                          <a class="block py-2" data-headlessui-state="open" href="/work">
+                          <a class="block py-2" href="/work">
                             Work
                           </a>
                         </li>
                         <li>
-                          <a class="block py-2" data-headlessui-state="open" href="/contact">
+                          <a class="block py-2" href="/articles">
+                            Articles
+                          </a>
+                        </li>
+                        <li>
+                          <a class="block py-2" href="/contact">
                             Contact
                           </a>
                         </li>
@@ -87,6 +92,12 @@ global $post;
                   <li>
                     <a href="/work" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 [&.active]:text-teal-500 group <?= $post->post_name == 'work' ? 'active' : '' ?>">
                       Work
+                      <span class="absolute h-px opacity-0 inset-x-1 -bottom-px bg-gradient-to-r from-teal-500/0 via-teal-500/40 to-teal-500/0 group-hover:opacity-100 group-[.active]:opacity-100"></span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/articles" class="relative block px-3 py-2 transition text-zinc-800 hover:text-teal-500 [&.active]:text-teal-500 group <?= $post->post_name == 'articles' ? 'active' : '' ?>">
+                      Articles
                       <span class="absolute h-px opacity-0 inset-x-1 -bottom-px bg-gradient-to-r from-teal-500/0 via-teal-500/40 to-teal-500/0 group-hover:opacity-100 group-[.active]:opacity-100"></span>
                     </a>
                   </li>
