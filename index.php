@@ -8,20 +8,14 @@
       <br>
       <span class="duration-100 hover:text-teal-500">W</span><span class="duration-100 hover:text-teal-500">e</span><span class="duration-100 hover:text-teal-500">b</span> <span class="duration-100 hover:text-teal-500">D</span><span class="duration-100 hover:text-teal-500">e</span><span class="duration-100 hover:text-teal-500">s</span><span class="duration-100 hover:text-teal-500">i</span><span class="duration-100 hover:text-teal-500">g</span><span class="duration-100 hover:text-teal-500">n</span> <span class="duration-100 hover:text-teal-500">&</span> <span class="duration-100 hover:text-teal-500">D</span><span class="duration-100 hover:text-teal-500">e</span><span class="duration-100 hover:text-teal-500">v</span><span class="duration-100 hover:text-teal-500">e</span><span class="duration-100 hover:text-teal-500">l</span><span class="duration-100 hover:text-teal-500">o</span><span class="duration-100 hover:text-teal-500">p</span><span class="duration-100 hover:text-teal-500">m</span><span class="duration-100 hover:text-teal-500">e</span><span class="duration-100 hover:text-teal-500">n</span><span class="duration-100 hover:text-teal-500">t</span>
     </h1>
-    <p class="mt-6 text-2xl font-semibold text-zinc-600">
-      Tired of wasting your <span class="line-through">time</span> money with web agencies that produce more work than value?
-    </p>
-    <p class="mt-6 text-xl text-zinc-600">
-      Here is my shortcut:
-      <br><span class="text-xl font-semibold">Your vision — My execution — Our win — Period</span>
+    <p class="mt-6 text-2xl text-zinc-600">
+      I create <strong>fully custom websites</strong> for businesses and individuals.
+      <br><strong>Full cycle</strong>: design, development, launch, and maintenance.
     </p>
   </div>
   <div class="flex flex-col items-start gap-4 pt-8 mt-8 ml-auto border-t border-zinc-800/5">
     <a href="/work" class="button">
-      <span class="relative top-px">Check My Work</span>
-    </a>
-    <a href="/contact" class="button">
-      <span class="relative top-px">Contact</span>
+      <span class="relative top-px">My Work</span>
     </a>
   </div>
 </section>
