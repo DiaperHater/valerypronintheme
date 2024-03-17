@@ -98,7 +98,7 @@
               <div class="sm:flex sm:items-center sm:gap-x-6 lg:block">
                 <img alt="" loading="lazy" width="36" height="36" decoding="async" data-nimg="1" class="flex-none object-contain w-16 h-16" style="color: transparent;" src="<?= get_template_directory_uri() ?>/assets/images/zankovets.webp">
                 <h3 class="mt-6 text-sm font-semibold text-zinc-800 sm:mt-0 lg:mt-8">
-                  Vlady Zankovets
+                  Vlady Zankavets, PhD
                 </h3>
               </div>
               <div class="flex mt-1 gap-x-4 sm:mt-0 lg:block">
@@ -123,7 +123,7 @@
               </p>
               <div class="mt-6 space-y-6 text-base text-neutral-600">
                 <p>
-                  Vlady is a top-notch straight and conditioning coach working with the world's most outstanding athletes. Also, he's the author of two books and dozens of scientific articles! Social networks were just not enough to cover all his professional needs, so after a number of conversations, we decided to build him a fully functional website.
+                  Vlady is a top-notch strength and conditioning coach working with the world's most outstanding athletes. Also, he's the author of two books and dozens of scientific articles! Social networks were just not enough to cover all his professional needs, so after a number of conversations, we decided to build him a fully functional website.
                 </p>
               </div>
               <div class="flex mt-8">

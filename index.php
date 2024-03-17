@@ -74,10 +74,10 @@
               <span>A case study is coming soon</span>
             </p>
             <p class="mt-6 text-2xl font-semibold font-display text-zinc-800">
-              Personal website for Vlady Zankovets
+              Personal website for Vlady Zankavets
             </p>
             <p class="mt-4 text-base text-zinc-600">
-              Vlady is a top-notch straight and conditioning coach working with the world's most outstanding athletes. Also, he's the author of two books and dozens of scientific articles! Social networks were just not enough to cover all his professional needs, so after a number of conversations, we decided to build him a fully functional website.
+              Vlady is a top-notch strength and conditioning coach working with the world's most outstanding athletes. Also, he's the author of two books and dozens of scientific articles! Social networks were just not enough to cover all his professional needs, so after a number of conversations, we decided to build him a fully functional website.
             </p>
           </article>
         </div>
