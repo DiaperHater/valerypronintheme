@@ -79,6 +79,9 @@
             <p class="mt-4 text-base text-zinc-600">
               Vlady is a top-notch strength and conditioning coach working with the world's most outstanding athletes. Also, he's the author of two books and dozens of scientific articles! Social networks were just not enough to cover all his professional needs, so after a number of conversations, we decided to build him a fully functional website.
             </p>
+            <div class="mt-6">
+              <a href="https://vladyzankavets.com" target="_blank" class="text-sm font-semibold underline underline-offset-2 hover:text-teal-500">View Website</a>
+            </div>
           </article>
         </div>
         <div class="flex">
